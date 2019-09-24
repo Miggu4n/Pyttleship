@@ -1,6 +1,6 @@
 #! bin/bash
 
-# Battleship v0.0.1
+# Pyttleship v0.0.1
 # Scripted on Linux Ubuntu with VSCode by Michele Guidetti (Miggu4n) on 24/09/2019
 # Feel free to use this code as you wish.
 # This is just a basic project I made, but I'm planning to finish it, adding a COM vs PLAYER (actually this is a PLAYER vs COM, unidirectional) and, maybe, a multiplayer.
