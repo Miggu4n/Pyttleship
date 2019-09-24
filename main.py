@@ -1,5 +1,3 @@
-#! bin/bash
-
 # Pyttleship v0.0.1
 # Scripted on Linux Ubuntu with VSCode by Michele Guidetti (Miggu4n) on 24/09/2019
 # Feel free to use this code as you wish.
